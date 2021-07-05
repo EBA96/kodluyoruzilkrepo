@@ -1,5 +1,5 @@
 # Kodluyoruz İlk Repo
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo
+Bu repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet de index.html barındırıyor.
 ![Eba Repo](https://github.com/EBA96/kodluyoruzilkrepo/blob/main/figures/ebaRepo.jpg)
 ## Installation
 `git clone https://github.com/EBA96/kodluyoruzilkrepo.git`
