@@ -1,6 +1,6 @@
 # Kodluyoruz İlk Repo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
-![Eba Repo](C:/Users/EBA/Documents/GitHub/kodluyoruzilkrepo/figures/ebaRepo.jpg)
+![Eba Repo](https://github.com/EBA96/kodluyoruzilkrepo/blob/main/figures/ebaRepo.jpg)
 ## Installation
 git clone https://github.com/EBA96/kodluyoruzilkrepo.git
 
